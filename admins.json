@@ -1,0 +1,14 @@
+{
+  "Format": 1,
+  "Admins": [
+    {
+      "Login": "VanillaBombila",
+      "Role": "owner",
+      "Salt": "CiKMBHKd4OOhN3BUCot/uQ==",
+      "Iterations": 310000,
+      "Verifier": "VxCWEeczETiESHq3SiD6akZ3aLc/N6AUuOSjKPfK9ek=",
+      "Iv": "8JzBx3itgSWAkgbi9jidXw==",
+      "Token": "d8yNoRAQ4/Dyd9TENjGZLVy5op4/IMz983qhXqRC1eE8UtIYQogvcxHPAT0e2EPpEUghMELUUHpwsKrSaAabpEqtluiwCNNIxgOgiOn3BjKkQ5Ry8YEmyOC49qvFX/R0"
+    }
+  ]
+}
