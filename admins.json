@@ -4,11 +4,11 @@
     {
       "Login": "VanillaBombila",
       "Role": "owner",
-      "Salt": "CiKMBHKd4OOhN3BUCot/uQ==",
+      "Salt": "rfYtm/OJCrENf4+PtEgxyQ==",
       "Iterations": 310000,
-      "Verifier": "VxCWEeczETiESHq3SiD6akZ3aLc/N6AUuOSjKPfK9ek=",
-      "Iv": "8JzBx3itgSWAkgbi9jidXw==",
-      "Token": "d8yNoRAQ4/Dyd9TENjGZLVy5op4/IMz983qhXqRC1eE8UtIYQogvcxHPAT0e2EPpEUghMELUUHpwsKrSaAabpEqtluiwCNNIxgOgiOn3BjKkQ5Ry8YEmyOC49qvFX/R0"
+      "Verifier": "Kbtsyo+n9O15cgEh1dPH1VjOdPe4UmMQWef6vTTX7Ho=",
+      "Iv": "JPtwJ7wIysB3aa9QFrPBxA==",
+      "Token": "J5abGC2+hFnW7hSYVT5I9phPqLqepm0qcbW2aDUsBaiNRj/mxzCYkofA8omJYR15fzCQMi9dNYYuyXH+Y56fZnInW70g5FEoNS+eEDi8HoPb9KckgwxSavm3dOmM2ImH"
     }
   ]
 }
